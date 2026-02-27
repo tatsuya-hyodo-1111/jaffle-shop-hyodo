@@ -1,0 +1,19 @@
+snowflake_hyodo:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      role: ACCOUNTADMIN
+      warehouse: FY26_TASK_FORCE
+      database: FY26_TASK_FORCE_HYODO
+      schema: RAW
+      account: ''
+      user: 'TATSUYA_HYODO'
+    prod:
+      type: snowflake
+      role: ACCOUNTADMIN
+      warehouse: FY26_TASK_FORCE
+      database: FY26_TASK_FORCE_HYODO
+      schema: RAW
+      account: ''
+      user: 'TATSUYA_HYODO'
