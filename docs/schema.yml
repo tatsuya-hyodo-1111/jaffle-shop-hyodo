@@ -1,4 +1,0 @@
-version: 2
-models:
-  - name: your_model
-    description: "{{ doc('__overview__') }}"
