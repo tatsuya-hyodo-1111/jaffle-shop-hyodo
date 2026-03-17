@@ -1,4 +1,4 @@
-{% docs __jaffle_shop_hyodo__ %}
+{% docs __overview__ %}
 
 ### Welcome!
 dbtプロジェクトの自動生成ドキュメントへようこそ！
